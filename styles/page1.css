@@ -1,0 +1,19 @@
+.headerm {
+ background-image: url("../img/2.jpg");
+}
+.s1 {
+  background-image:url("../img/background1.jpg");
+}
+.s1 h2{
+  color:rgb(63, 111, 205);
+}
+.s1 li,p {
+  color:rgb(74, 41, 236);
+}
+.p2 {
+  font-size:40px;
+  margin:auto 100px;
+}
+h4 {
+  color:rgb(190, 12, 130);
+}

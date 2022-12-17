@@ -1,0 +1,27 @@
+.headerm {
+  background-image: url("../img/2.jpg");
+}
+.s3 {
+  background-image: url("../img/background3.jpg");
+}
+.s3 h2 {
+  color:rgb(63, 156, 20);
+}
+.s3 p {
+  color: rgb(6, 150, 12);
+}
+footer {
+  background-color: rgba(255, 255, 255, 0.5);
+  color:blue;
+  font-size:30px;
+  text-align: center;
+}
+.p {
+  font-size:24px;
+  margin:auto 100px;
+  width:650px;
+  height:430px;
+}
+.phot6 {
+  background-image: url("../img/phot6.jpg");
+}

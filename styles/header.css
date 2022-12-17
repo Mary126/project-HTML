@@ -1,0 +1,92 @@
+@media (min-width:300px)and(max-width:600px){
+  .headerm h1 {
+    font-size:600%;
+  }
+}
+@media (min-width:600px)and(max-width:1000px) {
+  .headerm h1 {
+    font-size:680%;
+  }
+}
+@media (min-width:1000px) {
+  .headerm h1 {
+    font-size:700%;
+  }
+}
+.headerm{
+  background-position:50%;
+  background-size:cover;
+  padding:50px 0;
+}
+.headerm h1 {
+  cursor: default;
+  padding:30px 0;
+  background-color:rgba(255, 255, 255, 0.6);
+  text-align:center;
+  margin:50px auto;
+  font-family: sans-serif;
+  color:rgb(8, 1, 69);
+  transition: .5s;
+}
+.headerm h1:hover {
+  color:rgb(228, 25, 165);
+  transition: all 0.5s ease-out 0.2s;
+}
+.headerm nav {
+  text-align:center;
+  padding:30px 0;
+  margin: auto;
+  background-color:rgba(255, 255, 255, 0.7);
+}
+.headerm p {
+  font-weight: bold;
+  color:rgb(0, 8, 62);
+  text-align:center;
+  margin: auto;
+  background-color:rgba(255, 255, 255, 0.7);
+}
+.navIM {
+  margin: 3px 9px 3px 9px;
+  display: inline-block;
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  background-size:cover;
+  transition:.5s;
+  }
+.gl {
+  background-image: url("../img/menu0.jpg");:
+}
+.navIM1 {
+  background-image:url("../img/menu1.jpg");
+}
+.navIM2 {
+  background-image:url("../img/menu2.jpg");
+}
+.navIM3 {
+  background-image: url("../img/menu3.jpg")
+}
+.navIM4 {
+  background-image: url("../img/menu4.jpg");
+}
+.navIM:hover{
+  width:200px;
+  height:200px;
+  transition: all 0.5s ease-out 0.2s;
+}
+.inf {
+  border: 2px solid rgb(134, 214, 217);
+  color:rgb(255, 0, 84);
+  font-size:25px;
+  margin:auto;
+  display:block;
+  padding:3px 0;
+  width: 150px;
+  transition: .5s;
+  background-color: rgba(238, 232, 230, 0.5);
+}
+.inf:hover {
+  font-size:30px;
+  width:200px;
+  transition: all 0.5s ease-out 0.2s;
+}

@@ -1,0 +1,16 @@
+.headerm {
+  background-image: url("../img/2.jpg");
+}
+.s4 {
+  background-image: url("../img/background4.jpg");
+}
+
+footer {
+  background-color: rgba(255, 255, 255, 0.5);
+  color:blue;
+  font-size:30px;
+  text-align: center;
+}
+li {
+  color:rgb(5, 17, 124);
+}

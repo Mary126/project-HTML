@@ -1,0 +1,9 @@
+html {
+   background-image: url("../img/2.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+article {
+  color:rgb(25, 27, 164);
+  background-color: rgba(255,255,255,0.5);
+}

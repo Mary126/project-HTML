@@ -1,0 +1,12 @@
+.headerm {
+  background-image: url("../img/2.jpg");
+}
+.s2 {
+  background-image:url("../img/background2.jpg");
+}
+.s2 h2{
+  color:rgb(33, 33, 54);
+}
+.s2 p,li{
+  color:rgb(0, 3, 80);
+}
